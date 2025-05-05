@@ -131,25 +131,24 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 <p align="center">
   <!-- <a href="https://www.python.org/"> -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="64">
   </a>
   <!-- <a href="https://www.mysql.com/"> -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="100">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="64">
   </a>
   <!-- <a href="https://www.microsoft.com/en-us/sql-server"> -->
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL" width="100">
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL" width="64">
   </a>
   <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> -->
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" width="100">
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" width="64">
   </a>
   <!-- <a href="https://powerbi.microsoft.com/"> -->
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI" width="100">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI" width="64">
   </a>
   <!-- <a href="https://www.tableau.com/"> -->
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" width="100">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" width="64">
   </a>
 </p>
-
 
 
 ---
