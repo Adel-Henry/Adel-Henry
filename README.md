@@ -130,11 +130,25 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - **Networking:** Basic knowledge of Cisco Packet Tracer
 
 <p align="center">
-  <!-- <a href="https://www.snowflake.com/"> -->
-    <img src="https://camo.githubusercontent.com/071fdabf6b7148d7d3a1ec7d46053f9494c20c6deb17b1a763bfb1cade17beb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3536423945423f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d7768697465" alt="Snowflake Badge">
+  <!-- <a href="https://www.python.org/"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100">
+  </a>
+  <!-- <a href="https://www.mysql.com/"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo_2013.png" alt="MySQL" width="100">
+  </a>
+  <!-- <a href="https://www.microsoft.com/en-us/sql-server"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/SQL_Server_logo.png" alt="SQL" width="100">
+  </a>
+  <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Excel_2013_logo.svg" alt="Excel" width="100">
+  </a>
+  <!-- <a href="https://powerbi.microsoft.com/"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Power_BI_Logo.png" alt="Power BI" width="100">
+  </a>
+  <!-- <a href="https://www.tableau.com/"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Tableau_Logo.png" alt="Tableau" width="100">
   </a>
 </p>
-
 
 ---
 
