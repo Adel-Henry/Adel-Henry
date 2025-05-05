@@ -156,11 +156,11 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 <p align="center">
   <a href="mailto:adel.henry1312@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="40">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/adelhenry1312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="40">
   </a>
 </p>
 
