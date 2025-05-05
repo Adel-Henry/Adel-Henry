@@ -1,4 +1,124 @@
 ## Hi there 👋
+# 📌 Adel Henry Habib
+
+📞 01211199196 | 📧 adel.henry1312@gmail.com | 🔗 [linkedin.com/in/adelhenry1312/](https://linkedin.com/in/adelhenry1312/)  
+🎂 13/12/1999 (25 Years) | 📍 Shoubra Misr - El Sahel - Cairo  
+
+---
+
+## 🎯 Objective
+
+I’m a detail-oriented and motivated professional with a passion for data analysis and problem-solving. I love working with numbers and finding insights that help businesses make better decisions. With experience in business analysis and data management, I enjoy creating reports, dashboards, and improving processes. I’m always eager to learn new tools and technologies to enhance my skills.
+
+---
+
+## 🧩 Key Competencies
+
+- Communication  
+- Time Management  
+- Strategic Planning  
+- Presentation  
+- Teamwork  
+- Financial Reporting  
+- Data Analysis  
+- Data Cleaning  
+- Statistical Analysis  
+- Business Intelligence  
+- Reporting  
+- Critical Thinking  
+- Team Leadership  
+- Delightful Customer  
+- Financial Analysis  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Business Information System (BIS)**  
+*Faculty of Commerce and Business Administration - Helwan University*  
+📅 September 2018 - July 2022  
+📌 GPA: 3.51 | Grade: Excellent with Honors  
+📘 Graduation Project: ERP System for Library (Book Heaven) | Grade: Excellent
+
+**Ramsis Language School - Thanwya Amma**  
+📅 July 2018  
+📌 Score Percentage: 90.85%
+
+---
+
+## 💼 Experience
+
+**Data Analyst**  
+*Company: Alalamia – Cairo*  
+📅 May 2024 – January 2025
+
+- Collected, cleaned, and analyzed data to support business decisions  
+- Created reports and dashboards using Excel and Power BI  
+- Identified trends and patterns to improve processes and efficiency  
+- Translated complex data into easy-to-understand insights for stakeholders  
+- Automated repetitive tasks to enhance efficiency  
+- Collaborated with teams to provide data-driven solutions  
+- Validated and corrected data to ensure accuracy
+
+**Data Entry Clerk**  
+*Company: Alarabia – Cairo*  
+📅 September 2018 – October 2022
+
+- Entered, updated, and verified data with accuracy and efficiency  
+- Maintained data integrity through quality checks  
+- Managed digital and physical filing systems  
+- Handled some financial tasks (e.g., collecting money, paying debts)  
+- Resolved data inconsistencies in collaboration with colleagues  
+- Generated regular reports for management
+
+---
+
+## 🗣️ Language Capabilities
+
+- Native Language: Arabic  
+- Good command of both written and spoken English  
+
+---
+
+## 📜 Courses & Certifications
+
+- Training for Employment (TFE) – EBI – Online *(August 2024)*  
+- How to Join a Bank – EYouth – Online *(August 2024)*  
+- Professional Certificate for Soft Skills – EYouth – Online *(August 2024)*  
+- Banking for Non-Bankers – Almentor – Online *(July 2024)*  
+- Internship – Commercial International Bank (CIB) – Online *(September 2021)*  
+- Internship – Banque Misr – Online *(September 2020)*  
+- InnovEgypt – TIEC & Aspire – Online *(August 2020)*  
+
+---
+
+## 🙋‍♂️ Personal Abilities
+
+- Diligent and committed  
+- Detail-oriented and organized  
+- Quick learner adaptable to new settings  
+- Problem-solver with an analytical mindset  
+- Attentive listener, empathetic, and meticulous  
+- Flexible and capable of handling multiple tasks  
+- Strong team player with excellent collaboration skills  
+- Professional in decision-making and problem-solving  
+
+---
+
+## 💻 Technical Skills
+
+- **Internet & Collaboration Tools:** Google Drive, Trello  
+- **Business Intelligence & MS Office:** Excel, Word, PowerPoint, Power BI, Visio  
+- **Basic Programming:** HTML, CSS, JavaScript, SQL, Python  
+- **Development Tools:** Visual Studio, Linux, basic understanding of Odoo ERP  
+- **Networking:** Basic knowledge of Cisco Packet Tracer  
+
+---
+
+## ✅ Notes
+
+Thank you for considering my CV.  
+All certifications and references are available upon request.
 
 <!--
 **Adel-Henry/Adel-Henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
