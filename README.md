@@ -15,12 +15,13 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ## 🧩 Key Competencies
 
+| Communication         | Time Management        | Strategic Planning     |
+|-----------------------|------------------------|-------------------------|
+| Presentation          | Teamwork               | Financial Reporting     |
+| Data Analysis         | Data Cleaning          | Statistical Analysis    |
+| Business Intelligence | Reporting              | Critical Thinking       |
+| Team Leadership       | Delightful Customer    | Financial Analysis      |
 
-| Communication        | Time Management     | Strategic Planning   |
-| Presentation         | Teamwork            | Financial Reporting   |
-| Data Analysis        | Data Cleaning       | Statistical Analysis  |
-| Business Intelligence| Reporting           | Critical Thinking     |
-| Team Leadership      | Delightful Customer | Financial Analysis    |
 
 ---
 
