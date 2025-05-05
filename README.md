@@ -128,6 +128,11 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - **Basic Programming:** HTML, CSS, JavaScript, SQL, Python  
 - **Development Tools:** Visual Studio, Linux, basic understanding of Odoo ERP  
 - **Networking:** Basic knowledge of Cisco Packet Tracer  
+<img src="https://camo.githubusercontent.com/071fdabf6b7148d7d3a1ec7d46053f9494c20c6deb17b1a763bfb1cade17beb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3536423945423f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d7768697465" alt="Snowflake Badge">
+[<img src="https://camo.githubusercontent.com/071fdabf6b7148d7d3a1ec7d46053f9494c20c6deb17b1a763bfb1cade17beb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3536423945423f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d7768697465" alt="Snowflake Badge">](https://www.snowflake.com/)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/071fdabf6b7148d7d3a1ec7d46053f9494c20c6deb17b1a763bfb1cade17beb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3536423945423f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d7768697465" alt="Snowflake Badge">
+</p>
 
 ---
 
