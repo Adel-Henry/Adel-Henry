@@ -89,7 +89,11 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - Managed digital and physical filing systems  
 - Handled some financial tasks (e.g., collecting money, paying debts)  
 - Resolved data inconsistencies in collaboration with colleagues  
-- Generated regular reports for management
+- Generated regular reports for 
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="200">
+</p>
 
 ---
 
