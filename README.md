@@ -13,7 +13,7 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ---
 
-<h2 align="center">🧩 Key Competencies</h2>
+<h2>🧩 Key Competencies</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; background-color: white;">
