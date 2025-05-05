@@ -91,9 +91,10 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - Resolved data inconsistencies in collaboration with colleagues  
 - Generated regular reports for 
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="200">
-</p>
+<div style="position: relative; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="200" style="position: absolute; top: 0; left: 0; z-index: -1;">
+  <p style="color: white; font-size: 20px; font-weight: bold;">Welcome to Adel's GitHub!</p>
+</div>
 
 ---
 
