@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=6C63FF&size=36&duration=4000&center=true&vCenter=true&lines=Welcome+to+Adel's+Github+!" alt="Welcome Typing">
+</p>
+
 <h1 align="center">📌 Hi, I'm Adel Henry Habib</h1>
 
 <p align="center">
