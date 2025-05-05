@@ -68,9 +68,6 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ## 💼 Experience
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="100" align="right">
-  
 **Data Analyst**  
 *Company: Alalamia – Cairo*  
 📅 May 2024 – January 2025
@@ -83,6 +80,9 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - Collaborated with teams to provide data-driven solutions  
 - Validated and corrected data to ensure accuracy
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="200" align="right">
+  
 **Data Entry Clerk**  
 *Company: Alarabia – Cairo*  
 📅 September 2018 – October 2022
