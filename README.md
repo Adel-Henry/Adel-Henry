@@ -1,7 +1,7 @@
 <h1 align="center">📌 Hi, I'm Adel Henry Habib</h1>
 
 <p align="center">
-📞 01211199196 | 📧 adel.henry1312@gmail.com | 🔗 <a href="https://linkedin.com/in/adelhenry1312/">linkedin.com/in/adelhenry1312/</a> <br>
+📧 adel.henry1312@gmail.com | 🔗 <a href="https://linkedin.com/in/adelhenry1312/">linkedin.com/in/adelhenry1312/</a> <br>
 🎂 13/12/1999 (25 Years) | 📍 Shoubra Misr - El Sahel - Cairo
 </p>
 
@@ -147,6 +147,20 @@ I’m a detail-oriented and motivated professional with a passion for data analy
   </a>
   <!-- <a href="https://www.tableau.com/"> -->
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" width="80" height="40">
+  </a>
+</p>
+
+---
+
+## 📩 Connect with me
+
+<p align="center">
+  <a href="mailto:adel.henry1312@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adelhenry1312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
