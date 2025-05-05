@@ -13,14 +13,37 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ---
 
-## 🧩 Key Competencies
+<h2 align="center">🧩 Key Competencies</h2>
 
-| Communication         | Time Management        | Strategic Planning     |
-|-----------------------|------------------------|-------------------------|
-| Presentation          | Teamwork               | Financial Reporting     |
-| Data Analysis         | Data Cleaning          | Statistical Analysis    |
-| Business Intelligence | Reporting              | Critical Thinking       |
-| Team Leadership       | Delightful Customer    | Financial Analysis      |
+<div align="center">
+  <table style="border-collapse: collapse; background-color: white;">
+    <tr>
+      <td style="padding: 8px;">Communication</td>
+      <td style="padding: 8px;">Time Management</td>
+      <td style="padding: 8px;">Strategic Planning</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Presentation</td>
+      <td style="padding: 8px;">Teamwork</td>
+      <td style="padding: 8px;">Financial Reporting</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Data Analysis</td>
+      <td style="padding: 8px;">Data Cleaning</td>
+      <td style="padding: 8px;">Statistical Analysis</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Business Intelligence</td>
+      <td style="padding: 8px;">Reporting</td>
+      <td style="padding: 8px;">Critical Thinking</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Team Leadership</td>
+      <td style="padding: 8px;">Delightful Customer</td>
+      <td style="padding: 8px;">Financial Analysis</td>
+    </tr>
+  </table>
+</div>
 
 
 ---
