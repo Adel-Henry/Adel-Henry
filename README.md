@@ -68,6 +68,9 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ## 💼 Experience
 
+<p align="left">
+  <img src="[[https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif](https://github.com/Adel-Henry/Adel-Henry/blob/main/gif_2.gif?raw=true)](https://github.com/Adel-Henry/Adel-Henry/blob/main/gif.gif?raw=true)" width="200" align="right">
+  
 **Data Analyst**  
 *Company: Alalamia – Cairo*  
 📅 May 2024 – January 2025
@@ -80,8 +83,10 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 - Collaborated with teams to provide data-driven solutions  
 - Validated and corrected data to ensure accuracy
 
+</p>
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif" width="200" align="right">
+  <img src="[https://raw.githubusercontent.com/Adel-Henry/Adel-Henry/b5378398a0836d7004310bed257a1afe6e07bf32/Animation%20-%201746437842491.gif](https://github.com/Adel-Henry/Adel-Henry/blob/main/gif_2.gif?raw=true)" width="200" align="right">
   
 **Data Entry Clerk**  
 *Company: Alarabia – Cairo*  
