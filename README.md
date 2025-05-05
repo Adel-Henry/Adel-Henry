@@ -1,8 +1,9 @@
-## Hi there 👋
-# 📌 Adel Henry Habib
+<h1 align="center">📌 Hi, I'm Adel Henry Habib</h1>
 
-📞 01211199196 | 📧 adel.henry1312@gmail.com | 🔗 [linkedin.com/in/adelhenry1312/](https://linkedin.com/in/adelhenry1312/)  
-🎂 13/12/1999 (25 Years) | 📍 Shoubra Misr - El Sahel - Cairo  
+<p align="center">
+📞 01211199196 | 📧 adel.henry1312@gmail.com | 🔗 <a href="https://linkedin.com/in/adelhenry1312/">linkedin.com/in/adelhenry1312/</a> <br>
+🎂 13/12/1999 (25 Years) | 📍 Shoubra Misr - El Sahel - Cairo
+</p>
 
 ---
 
@@ -14,21 +15,12 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 ## 🧩 Key Competencies
 
-- Communication  
-- Time Management  
-- Strategic Planning  
-- Presentation  
-- Teamwork  
-- Financial Reporting  
-- Data Analysis  
-- Data Cleaning  
-- Statistical Analysis  
-- Business Intelligence  
-- Reporting  
-- Critical Thinking  
-- Team Leadership  
-- Delightful Customer  
-- Financial Analysis  
+
+| Communication        | Time Management     | Strategic Planning   |
+| Presentation         | Teamwork            | Financial Reporting   |
+| Data Analysis        | Data Cleaning       | Statistical Analysis  |
+| Business Intelligence| Reporting           | Critical Thinking     |
+| Team Leadership      | Delightful Customer | Financial Analysis    |
 
 ---
 
@@ -121,6 +113,8 @@ Thank you for considering my CV.
 All certifications and references are available upon request.
 
 <!--
+## Hi there 👋
+
 **Adel-Henry/Adel-Henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
