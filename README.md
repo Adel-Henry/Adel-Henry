@@ -131,7 +131,7 @@ I’m a detail-oriented and motivated professional with a passion for data analy
 
 <p align="center">
   <!-- <a href="https://www.python.org/"> -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100" height="100">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="60" height="100">
   </a>
   <!-- <a href="https://www.mysql.com/"> -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="100" height="100">
