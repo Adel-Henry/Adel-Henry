@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&color=7BAFD4&size=35&duration=4000&center=true&vCenter=true&lines=Welcome+to+Adel's+Github+!" alt="Typing SVG">
 </p>
 
-<h1 align="center">📌 Hi, I'm Adel Henry Habib</h1>
+<h1 align="center">📌 Hi, I'm Adel Henry Habib 👋 </h1>
 
 <p align="center">
 📧 adel.henry1312@gmail.com | 🔗 <a href="https://linkedin.com/in/adelhenry1312/">linkedin.com/in/adelhenry1312/</a> <br>
