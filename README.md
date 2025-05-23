@@ -73,7 +73,7 @@ I’m a detail-oriented and motivated professional with a passion for data analy
   
 **Data Analyst**  
 *Company: Alalamia – Cairo*  
-📅 May 2024 – January 2025
+📅 May 2024 – May 2025
 
 - Collected, cleaned, and analyzed data to support business decisions  
 - Created reports and dashboards using Excel and Power BI  
