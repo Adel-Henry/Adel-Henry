@@ -171,7 +171,7 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
 ---
 
 ## 🛠️ Technical Skills
-
+<div align="center">
 **Business Analysis & Project Tools**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -218,15 +218,15 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
 
 ![Agile](https://img.shields.io/badge/Agile-0275D8?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
+</div>
 ---
 
 ## 🌐 Languages
 
 | Language | Proficiency |
 |---|---|
-| 🇪🇬 Arabic | Native |
-| 🇬🇧 English | Good command — written & spoken |
+| Arabic | Native |
+| English | Good command — written & spoken |
 
 ---
 
