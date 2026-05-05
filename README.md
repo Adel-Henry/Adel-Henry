@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Adel+Henry+Habib;Product+Owner+%7C+Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Adel+Henry+Habib;Product+Owner+%7C+Business+Analyst+%7C+Data+Analyst)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,12 +18,13 @@
 
 ## 👤 Professional Summary
 
-Results-driven **Product Owner & Business Analyst** with hands-on experience spanning data analysis, business requirements engineering, and agile product delivery. Proven track record of translating complex business needs into clear functional specifications, managing prioritized backlogs, and collaborating with cross-functional teams to ship high-quality products on time. Passionate about leveraging data insights and strategic thinking to optimize workflows, drive growth, and deliver measurable business impact.
+Results-driven **Product Owner, Business Analyst & Data Analyst** with hands-on experience in data analysis, business requirements engineering, and agile product delivery. Proven ability to translate complex business needs into clear functional specifications while leveraging data-driven insights to support decision-making and product strategy. Experienced in managing prioritized backlogs, analyzing datasets using SQL, Python, and BI tools, and collaborating with cross-functional teams to deliver high-quality, data-informed products on time. Passionate about combining analytical thinking with product vision to optimize workflows, uncover opportunities, and drive measurable business impact.
+
 
 ---
 
 ## 🧠 Key Competencies
-
+<div align="center">
 <table>
   <tr>
     <th>📋 Business Analysis & Product</th>
@@ -65,7 +66,7 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 💼 Professional Experience
@@ -154,6 +155,9 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
 
 ## 📜 Certifications & Courses
 
+<div align="center">
+
+
 | Certificate | Provider | Type | Date |
 |---|---|---|---|
 | Product Mastery | CherryScale Academy | Hybrid | Sep 2025 |
@@ -168,10 +172,14 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
 | Internship — Banque Misr | Banque Misr | Online | Sep 2020 |
 | InnovEgypt | TIEC & Aspire | Online | Aug 2020 |
 
+</div>
+
 ---
 
 ## 🛠️ Technical Skills
+
 <div align="center">
+  
 **Business Analysis & Project Tools**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -218,15 +226,22 @@ Results-driven **Product Owner & Business Analyst** with hands-on experience spa
 
 ![Agile](https://img.shields.io/badge/Agile-0275D8?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 </div>
+
 ---
 
+
 ## 🌐 Languages
+
+<div align="center">
 
 | Language | Proficiency |
 |---|---|
 | Arabic | Native |
 | English | Good command — written & spoken |
+
+</div>
 
 ---
 
