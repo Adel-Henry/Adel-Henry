@@ -227,6 +227,7 @@ Results-driven **Product Owner, Business Analyst & Data Analyst** with hands-on 
 
 ![Agile](https://img.shields.io/badge/Agile-0275D8?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Waterfall](https://img.shields.io/badge/SDLC--Waterfall-495057?style=for-the-badge)
 
 </div>
 
